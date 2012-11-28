@@ -1,4 +1,4 @@
 To-Do:
 ===========
 
-Show marker hover effect before placing it.
+Only display hover effect if moderately close (~50px) to block.
